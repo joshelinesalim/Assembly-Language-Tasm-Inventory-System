@@ -11,13 +11,14 @@ Features:
 1. User-friendly menu for navigation
 2. Higlights stock below 5
 3. Password protection for viewing the inventory
-4. Input validation for user entries
+4. Password is not visible during typing
+5. Input validation for user entries
 
 How to Use:
 1. Download the .asm file.
 2. Open the program in a suitable compiler (e.g., Turbo Assembler).
 3. Run the program.
-4. Enter the password when prompted to view the inventory.
+4. Enter the password (adm00) when prompted to view the inventory.
 5. Use the menu to perform the desired action (Make Sales, Reorder Items, Edit Item Quantity, Exit Program).
 6. Follow the on-screen prompts for each action.
 
